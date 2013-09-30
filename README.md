@@ -12,3 +12,8 @@ Endpoint: http://localhost:8080/helloworld
 
 Admin: http://localhost:8081/
 
+Welcome to CMPE273!!!
+
+-------------------------
+-------------------------
+
